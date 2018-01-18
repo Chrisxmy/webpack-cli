@@ -1,0 +1,24 @@
+div,a,h1,h2,h3,ul,li,span,body,p{
+    padding:0;
+    margin: 0;
+}
+
+body{
+    background: #f6f6f6;
+    font: 12px/1.5 tahoma, arial, Microsoft YaHei, sans-serif;
+}
+img{
+    display: block;;
+    border: none;
+}
+
+
+
+label, input[type='checkbox']{
+    cursor: pointer;
+}
+
+li{
+    list-style: none
+}
+
